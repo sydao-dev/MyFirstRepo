@@ -1,2 +1,3 @@
 Hello!
 I`m doing another commit
+Hello from Visual Studio Code
